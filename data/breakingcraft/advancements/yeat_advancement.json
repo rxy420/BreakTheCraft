@@ -1,0 +1,30 @@
+{
+  "display": {
+    "background": "breakingcraft:textures/screens/brewing_stand_base.png",
+    "icon": {
+      "item": "breakingcraft:already_rich"
+    },
+    "title": {
+      "translate": "advancements.yeat_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.yeat_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "yeat_advancement_0": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "breakingcraft:ecstacy"
+          ]
+        }
+      }
+    }
+  }
+}

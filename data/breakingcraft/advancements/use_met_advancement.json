@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "breakingcraft:met"
+    },
+    "title": {
+      "translate": "advancements.use_met_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.use_met_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "use_met_advancement_0": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "breakingcraft:met"
+          ]
+        }
+      }
+    }
+  },
+  "parent": "breakingcraft:breaking_craft_advancements"
+}

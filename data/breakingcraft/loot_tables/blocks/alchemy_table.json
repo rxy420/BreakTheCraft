@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "breakingcraft:blocks/alchemy_table",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "breakingcraft:alchemy_table"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "breakingcraft:oxy"
+    },
+    "title": {
+      "translate": "advancements.oxy_codene.title"
+    },
+    "description": {
+      "translate": "advancements.oxy_codene.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "oxy_codene_0": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "breakingcraft:oxy"
+          ]
+        }
+      }
+    }
+  },
+  "parent": "breakingcraft:breaking_craft_advancements"
+}
