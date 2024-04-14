@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="breakingcraft"
+version="1.0.0"
+displayName="Breaking Craft"
+displayURL="https://discord.gg/xns48SM67T"
+logoFile="logo.png"
+credits="rxydc"
+authors="rxydc"
+description="Cook some crystal Math in minecraft!"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.breakingcraft]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
