@@ -1,0 +1,8 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "breakingcraft:block/brewing_stand",
+    "particle": "breakingcraft:block/brewing_stand"
+  },
+  "render_type": "cutout_mipped"
+}

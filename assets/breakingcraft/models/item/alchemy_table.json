@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "breakingcraft:item/brewing_stand_base"
+  }
+}

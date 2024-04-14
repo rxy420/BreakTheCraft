@@ -1,0 +1,56 @@
+{
+  "yeat_hurt": {
+    "subtitle": "subtitles.yeat_hurt",
+    "sounds": [
+      {
+        "name": "breakingcraft:yeat_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "yeat_idle": {
+    "subtitle": "subtitles.yeat_idle",
+    "sounds": [
+      {
+        "name": "breakingcraft:yeat_idle",
+        "stream": false
+      }
+    ]
+  },
+  "yeat_death": {
+    "subtitle": "subtitles.yeat_death",
+    "sounds": [
+      {
+        "name": "breakingcraft:yeat_death",
+        "stream": false
+      }
+    ]
+  },
+  "already_rich": {
+    "subtitle": "subtitles.already_rich",
+    "sounds": [
+      {
+        "name": "breakingcraft:already_rich",
+        "stream": true
+      }
+    ]
+  },
+  "nothing_change": {
+    "subtitle": "subtitles.nothing_change",
+    "sounds": [
+      {
+        "name": "breakingcraft:nothing_change_official_audio",
+        "stream": true
+      }
+    ]
+  },
+  "breathe": {
+    "subtitle": "subtitles.breathe",
+    "sounds": [
+      {
+        "name": "breakingcraft:breathe",
+        "stream": true
+      }
+    ]
+  }
+}

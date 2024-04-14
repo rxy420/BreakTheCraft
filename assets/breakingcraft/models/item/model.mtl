@@ -1,0 +1,4 @@
+newmtl Material
+d 1.0
+Kd 1.0 1.0 1.0
+map_Kd breakingcraft:block/gltf_embedded_0

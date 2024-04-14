@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "breakingcraft:item/bactrack-c6-bac-02_900x"
+  }
+}
